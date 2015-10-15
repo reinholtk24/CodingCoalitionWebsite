@@ -3,4 +3,4 @@ Todo List
 ***
 
 
-1. Each make a rough draft of what you think the website should entail and we will collaboratively combine them into one. 
+1. Figure out how to add a nice layout to the page and then go from there. 

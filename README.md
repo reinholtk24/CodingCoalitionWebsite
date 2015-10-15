@@ -1,9 +1,11 @@
-# CodingCoalitionWebsite
-This is a website for the Concord Coding Coalition! 
+# Kyle's Branch 
+***
+Created by Kyle Reinholt on 10/15/15
+
+This is a serious work in progress! Right now, I am just playing around with HTML5 stuff. 
 
 Whoo Computers! 
 
-This has been created by Kyle Reinholt, Charlotte Hamilton, and Denny Hood on 10/14/15. 
 
 
 
