@@ -1,0 +1,44 @@
+<!-- Author: Denny Hood -->
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+</style>
+<title>Coding Coalition</title>
+</head>
+<img src="http://www.concord.edu/themes/cumain/images/headerbg.png">
+<body bgcolor="#F0F5F5">
+<h1 style="text-align:center;color:#800000">Welcome to Concord Coding Coalition website!</h1>
+<h6 style="text-align:center">Version 0.1</h6>
+<p title = "click the link to meet our officers">
+To contact club officers click <a href="file:///home/user/Desktop/codingcoalition/Officers/officers.html"><i>here</i></a>
+</p>
+<p title = "click here to go to our official facebook page">
+To visit the Concord University Coding Coalition Facebook page click <a href="https://www.facebook.com/groups/cucsc/"><i>here</i></a>
+</p>
+<p title = "click here to visit our events section">
+To visit the Events page click <a href="file:///home/user/Desktop/codingcoalition/Events/events.html"><i>here</i></a>
+</p>
+<p title = "check out our awesome videos!">
+<a href="/videos/videos.html">Video Tutorials!</a>
+</p>
+<p title = "our wiki has links to all types of guides!">
+<a href="https://wiki.csclub.uwaterloo.ca/Main_Page">Wiki</a>
+</p>
+<p title = "visit our FAQ to look for frequently asked questions">
+<a href="file:///home/user/Desktop/codingcoalition/FAQ/FAQ.html">FAQ</a>
+</p>
+<h2 style="color:#800000">About Us</h2>
+<p>The Concord University Coding Coalition is an organization dedicated to providing Concord students with an informational and social network of individuals interested in computer science. We foster community among computer science students by way of club-hosted game nights, conference talks, and social outings.
+
+Our club faculty advisor is <b title = "Batman">Mr. Lonnie Bowe</b>.
+</p>
+<hr>
+<address style="text-align:center;font-size:10px">
+Written by Denny Hood.<br> 
+Concord University Coding Coalition Club<br>
+Box 1000, Athens, WV 24712<br>
+USA
+</address>
+</body>
+</html>
