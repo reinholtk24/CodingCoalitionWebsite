@@ -1,0 +1,25 @@
+<!-- Author: Denny Hood -->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Coding Coalition</title>
+</head>
+<body bgcolor="#F0F5F5">
+<h1 style="color:#800000">Welcome to Concord Coding Coalition frequently asked questions!</h1>
+<hr>
+<h2 style="color:#800000">Check out these helpful tutorials:</h2>
+<p>
+<iframe width="420" height="345"
+src="http://www.youtube.com/embed/H5lkmKkfjD0">
+</iframe>
+</p>
+<a href="/codingcoalition/home.html">Back to Home Page</a>
+<hr>
+<address style="text-align:center;font-size:10px">
+Written by Denny Hood.<br> 
+Concord University Coding Coalition Club<br>
+Box 1000, Athens, WV 24712<br>
+USA
+</address>
+</body>
+</html>

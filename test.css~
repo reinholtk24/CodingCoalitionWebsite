@@ -1,0 +1,20 @@
+h1{
+	font-family: Helvetica;
+	color: #f2f2f2;
+}
+h2{
+	color: blue;
+}
+p{
+	font-family: Arial;
+	color: red;
+}
+div {
+    border: 2px solid #a1a1a1;
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 300px;
+    border-radius: 25px;
+}
+
+

@@ -1,0 +1,83 @@
+body{
+	background-color: #F2F2F2;
+}
+#toplogo{
+	width:100%;
+}
+div {
+    border: 2px solid black;
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 300px;
+    border-radius: 25px;
+}
+h1{
+	font-family: Cursive;
+	font-size: 30px;
+	text-align: center;
+	color: #f2f2f2;
+}
+h2{
+	font-family: Cursive;
+	text-align: center;	
+	color: black;
+}
+p{
+	font-family: Arial;
+	color: #800000;
+}
+#header{
+	background-color: #800000;
+	height: 50px;	
+	width: 100%;
+	padding-right:300px;
+	border-radius: 0px;
+}
+.right{
+	background-color: #C0C0C0;
+	width: 300px;
+	float: left;
+	
+}
+.middle{
+	background-color: #C0C0C0;
+	width: 500px;
+	float: left; 
+}
+.left{
+	background-color: #C0C0C0;
+	width: 100px;
+	float: left;
+}
+#footer{
+	background-color: #800000;
+	width:100%;
+	clear: both;
+	padding-left:0;
+	border-radius: 0px;
+}
+li{
+	/*display: inline;*/
+}
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+}
+a {
+        width: 100px;
+	color: black;
+        text-decoration:none;
+}
+address{
+	color: #f2f2f2;
+	font-family: Courier;
+	font-size: 10px;
+	text-align:center;
+}
+img{
+	height: 281px;
+	width: 500px;
+
+
+

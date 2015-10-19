@@ -1,0 +1,129 @@
+<!-- My Second Attempt at our website
+	Author: Denny Hood -->
+<!doctype html>
+<html>
+<head>
+<link type="text/css" rel="stylesheet" href="test.css" />
+<title>Coding Coalition</title>
+</head>
+<body>
+<div id="toplogo">
+	<img src="http://www.concord.edu/themes/cumain/images/headerbg.png"; width:100%/>
+</div>
+<div id="header">
+	<h1>Concord University Coding Coalition</h1>
+	<h6>Version 0.2</h6>
+</div>
+<div class="left">
+	<h2>Links:</h2>
+	<ul>
+		<li><a href="file:///home/user/Desktop/codingcoalition/Officers/officers.html">Club Officers</a></li>
+		<hr>
+		<li><a href="https://www.facebook.com/groups/cucsc/">Facebook</a></li>
+		<hr>
+		<li><a href="file:///home/user/Desktop/codingcoalition/Events/events.html">Events</a></li>
+		<hr>
+		<li><a href="file:///home/user/Desktop/codingcoalition/videos/videos.html">Video Tutorials</a></li>
+		<hr>
+		<li><a href="https://wiki.csclub.uwaterloo.ca/Main_Page">Wiki</a></li>
+		<hr>
+		<li><a href="file:///home/user/Desktop/codingcoalition/FAQ/FAQ.html">FAQ</a></li>
+	</ul>
+</div>
+<div class="middle">
+	<img src="file:///home/user/Desktop/codingcoalition/home/club.jpg"/>
+	<h2>About Us:</h2>
+	<p>The Concord University Coding Coalition is an organization dedicated to providing Concord students with an informational and social network of individuals interested in computer science. We foster community among computer science students by way of club-hosted game nights, conference talks, and social outings.</p>
+	<p>Our club faculty advisor is <b title = "Batman">Mr. Lonnie Bowe</b>.</p>
+</div>
+<div class="right">
+	<h2>Calendar</h2>
+	<p>
+		<TABLE BORDER=3 CELLSPACING=3 CELLPADDING=3>
+		<TR>
+		<TD COLSPAN="7" ALIGN=center><B>December 2001</B></TD>
+		</TR>
+
+		<TR>
+		<TD ALIGN=center>Sun</TD>
+		<TD ALIGN=center>Mon</TD>
+		<TD ALIGN=center>Tue</TD>
+		<TD ALIGN=center>Wed</TD>
+		<TD ALIGN=center>Thu</TD>
+		<TD ALIGN=center>Fri</TD>
+		<TD ALIGN=center>Sat</TD>
+		</TR>
+
+		<TR>
+		<TD ALIGN=center></TD>
+		<TD ALIGN=center></TD>
+		<TD ALIGN=center></TD>
+		<TD ALIGN=center></TD>
+		<TD ALIGN=center></TD>
+		<TD ALIGN=center></TD>
+		<TD ALIGN=center>1</TD>
+		</TR>
+
+		<TR>
+		<TD ALIGN=center>2</TD>
+		<TD ALIGN=center>3</TD>
+		<TD ALIGN=center>4</TD>
+		<TD ALIGN=center>5</TD>
+		<TD ALIGN=center>6</TD>
+		<TD ALIGN=center>7</TD>
+		<TD ALIGN=center>8</TD>
+		</TR>
+
+		<TR>
+		<TD ALIGN=center>9</TD>
+		<TD ALIGN=center>10</TD>
+		<TD ALIGN=center>11</TD>
+		<TD ALIGN=center>12</TD>
+		<TD ALIGN=center>13</TD>
+		<TD ALIGN=center>14</TD>
+		<TD ALIGN=center>15</TD>
+		</TR>
+
+		<TR>
+		<TD ALIGN=center>16</TD>
+		<TD ALIGN=center>17</TD>
+		<TD ALIGN=center>18</TD>
+		<TD ALIGN=center>19</TD>
+		<TD ALIGN=center>20</TD>
+		<TD ALIGN=center>21</TD>
+		<TD ALIGN=center>22</TD>
+		</TR>
+
+		<TR>
+		<TD ALIGN=center>23</TD>
+		<TD ALIGN=center>24</TD>
+		<TD ALIGN=center>25</TD>
+		<TD ALIGN=center>26</TD>
+		<TD ALIGN=center>27</TD>
+		<TD ALIGN=center>28</TD>
+		<TD ALIGN=center>29</TD>
+		</TR>
+
+		<TR>
+		<TD ALIGN=center>30</TD>
+		<TD ALIGN=center>31</TD>
+		<TD ALIGN=center></TD>
+		<TD ALIGN=center></TD>
+		<TD ALIGN=center></TD>
+		<TD ALIGN=center></TD>
+		<TD ALIGN=center></TD>
+
+		</TR>
+
+		</TABLE> 
+	</p>
+</div>
+<div id="footer">
+	<address>Written by Denny Hood.<br> 
+Concord University Coding Coalition Club<br>
+Box 1000, Athens, WV 24712<br>
+USA</address>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Coding Coalition</title>
+ <base href="http://demos.telerik.com/kendo-ui/calendar/index">
+    <style>html { font-size: 12px; font-family: Arial, Helvetica, sans-serif; }</style>
+    <title>Kendo UI Example for WCG</title>
+    <link rel="stylesheet" href="http://cdn.kendostatic.com/2015.1.429/styles/kendo.common-material.min.css" />
+    <link rel="stylesheet" href="http://cdn.kendostatic.com/2015.1.429/styles/kendo.material.min.css" />
+    <link rel="stylesheet" href="http://cdn.kendostatic.com/2015.1.429/styles/kendo.dataviz.min.css" />
+    <link rel="stylesheet" href="http://cdn.kendostatic.com/2015.1.429/styles/kendo.dataviz.material.min.css" />
+
+    <script src="http://cdn.kendostatic.com/2015.1.429/js/jquery.min.js"></script>
+    <script src="http://cdn.kendostatic.com/2015.1.429/js/kendo.all.min.js"></script>
+</head>
+<body>
+
+<h1>Schedule</h1>
+<p>This is where a calender will be or something like that.</p>
+
+<p><b>Click the picture to go back to the home page.</b></p>
+ <a href="KylesIndex.html">
+  <img src="smiley.gif" alt="HTML tutorial" style="width:200px;height:500px;border:0">
+</a> 
+
+<div id="example">
+				<div class="demo-section k-header" style="width: 300px; text-align: center;">
+                    <div id="calendar"></div>
+                </div>
+            <script>
+                $(document).ready(function() {
+                    // create Calendar from div HTML element
+                    $("#calendar").kendoCalendar();
+                });
+            </script>
+        </div>
+
+
+</body>
+</html> 

@@ -1,0 +1,82 @@
+<!-- Author: Denny Hood -->
+<!doctype html>
+<html>
+<head>
+<style>
+h2{
+	color:#800000;
+	font-family: "Times New Roman", Times, serif;
+}
+hr{
+	color:#800000;
+	font-size:10px;
+}
+
+</style>
+<title>Club Officers</title>
+<a href="file:///home/user/Desktop/codingcoalition/home/home.html">Back to Home Page</a>
+</title>
+<body bgcolor="#F0F5F5">
+<h1 style="color:#800000">Coding Coalition Club Officers</h1>
+<hr>
+<h2>Pope</h2>
+<p>Kyle Reinholt</p>
+<!-- Kyle's Mugshot -->
+<p><img src="kyle1.png"></p>
+<p>email: <i><u>reinholtk@mycu.concord.edu</u></i></p>
+<p>
+<!-- Facebook -->
+<a href="https://www.facebook.com/kyle.reinholt.9?fref=ts"><img src="facebook.png" alt="Facebook" style="width:42px;height:42px;border:0"></a>
+<!-- Github -->
+<a href="https://github.com/reinholtk24"><img src="github.png" alt="Github" style="width:42px;height:42px;border:0"></a>
+</p>
+<p>The Pope is the Bishop of Concord and the leader of the worldwide Coding Coalition. The primacy of the Concord bishop is largely derived from his role as the traditional successor to Saint Bowe, to whom Steve Jobs gave the keys of Apple and the powers of "binding and loosing", naming him as the "rock" upon which the church would be built. The current pope is Kyle Reinholt, who was elected on 13 March 2013, succeeding Benedict XVI</p>
+<hr>
+<h2>Vice Pope</h2>
+<p>Preston Bennett</p>
+<!--Preston's Mugshot -->
+<p><img src="Preston1.png"></p>
+<p>email: <i><u>bennettp@mycu.concord.edu</u></i></p>
+<!-- Facebook -->
+<p><a href="https://www.facebook.com/ottomagne?fref=ts"><img src="facebook.png" alt="Facebook" style="width:42px;height:42px;border:0"></a></p>
+<p>The Vice Pope is the Vice Bishop of Concord and the second in command of the worldwide Coding Coalition. The secondcy of the Concord vice bishop is largely derived from his role as the traditional co successor to Saint Bowe, to whom Steve Jobs gave the keys of Apple and the powers of "binding and loosing", naming him as the "rock" upon which the church would be built. The current vice pope is Preston Bennett, who was elected on 13 March 2013, succeeding Vice Benedict XVI</p>
+<hr>
+<h2>Secretary</h2>
+<p>Clone Trooper6812</p>
+<p><img src="defaultpic1.png"></p>
+<p>email: <i><u>trooper6812@deathstar.emp</u></i></p>
+<p>Clone troopers were an army of identical, genetically-modified clones, created to serve in the Grand Army of the Republic during the full-scale intergalactic conflict that came to be known as the Clone Wars. Grown at an accelerated rate and raised in the laboratories and facilities of Kamino, the clone troopers were trained throughout the first ten years of their lives to become one of the most efficient military forces in galactic history. Bred for the sole purpose of combat, the clones were indoctrinated with unwavering obedience to the Galactic Republic and—more specifically—their Commander-in-Chief, the Supreme Chancellor. </p>
+<hr>
+<h2>Treasurer</h2>
+<p>Clone Trooper3514</p>
+<p><img src="defaultpic1.png"></p>
+<p>email: <i><u>trooper3514@deathstar.emp</u></i></p>
+<p>Clone troopers were an army of identical, genetically-modified clones, created to serve in the Grand Army of the Republic during the full-scale intergalactic conflict that came to be known as the Clone Wars. Grown at an accelerated rate and raised in the laboratories and facilities of Kamino, the clone troopers were trained throughout the first ten years of their lives to become one of the most efficient military forces in galactic history. Bred for the sole purpose of combat, the clones were indoctrinated with unwavering obedience to the Galactic Republic and—more specifically—their Commander-in-Chief, the Supreme Chancellor. </p>
+<hr>
+<h2>Sponsor</h2>
+<p>Lonnie Bowe</p>
+<!-- Batman needs no picture -->
+<p title="Lonnie Bowe"><img src="MrBowe1.png"></p>
+<p>email: <i><u>lbowe@concord.edu</u></i></p>
+<p>
+<!-- facebook -->
+<a href="https://www.facebook.com/lonnie.bowe?fref=ts"><img src="facebook.png" alt="Facebook" style="width:42px;height:42px;border:0"></a>
+<!-- github -->
+<a href="https://github.com/lonniebowe?tab=repositories"><img src="github.png" alt="Github" style="width:42px;height:42px;border:0"></a>
+<!-- twitter -->
+<a href="https://twitter.com/lonniebowe"><img src="twitter.png" alt="Twitter" style="width:42px;height:42px;border:0"></a>
+</p>
+<p>Mr. Bowe <strong>is</strong> Batman.</p>
+<br>
+<a href="file:///home/user/Desktop/codingcoalition/home/home.html">Back to Home Page</a>
+<hr>
+<address style="text-align:center;font-size:10px">
+Written by Denny Hood.<br> 
+Concord University Coding Coalition Club<br>
+Box 1000, Athens, WV 24712<br>
+USA
+</address>
+</body>
+</html>
+
+
