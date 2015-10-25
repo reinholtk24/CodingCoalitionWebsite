@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>Events</title>
-<a href="/codingcoalition/home.html">Back to Home Page</a>
+<a href="file:///home/user/Desktop/codingcoalition/home/home.html">Back to Home Page</a>
 </head>
 <body bgcolor="#F0F5F5">
 <h1 style="color:#800000">Welcome to Concord <b>Coding Coalition</b> Events!</h1>
@@ -39,7 +39,7 @@ Please check back here often to see new and exciting upcoming events!
   </tr>
 </table>
 <br>
-<a href="/codingcoalition/home.html">Back to Home Page</a>
+<a href="file:///home/user/Desktop/codingcoalition/home/home.html">Back to Home Page</a>
 <hr>
 <address style="text-align:center;font-size:10px">
 Written by Denny Hood.<br> 
