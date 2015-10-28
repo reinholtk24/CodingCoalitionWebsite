@@ -2,26 +2,34 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Coding Coalition</title>
+<link type="text/css" rel="stylesheet" href="FAQ.css">
+<title>CC FAQ</title>
 </head>
-<body bgcolor="#F0F5F5">
-<h1 style="color:#800000">Welcome to Concord <b>Coding Coalition</b> frequently asked questions!</h1>
-<hr>
-<h2 style="color:#800000">When does the club meet?</h2>
+<body>
+<div id="toplogo" style="height: 200px">
+	<img src="file:///home/user/Desktop/codingcoalition/Main/12189687_10207140734053765_7437299204447836637_n.jpg"; width:100%/>
+</div>
+<div id="header">
+	<h1>Welcome to Concord Coding Coalition frequently asked questions!</h1>
+</div>
+<a href="file:///home/user/Desktop/codingcoalition/Main/homeV2.html">Back to Home Page</a>
+
+<div>
+<h2>When does the club meet?</h2>
 <p>
 The club holds general meetings on the first Wednesday of every month during the academic year excluding summer sessions unless announced.
 </p>
 <p>
 The committees tend to hold weekly meetings at the discretion of the committee chair. 
 </p>
-<hr>
-<h2 style="color:#800000">I'm part of an organization that would like to collaborate on an event with Coding Coalition, how do we get in contact? </h2>
+<div>
+<h2>I'm part of an organization that would like to collaborate on an event with Coding Coalition, how do we get in contact? </h2>
 <p>
 We're always looking to host great events with other on campus clubs. Just send an email over to <u><i>codingcoalition@mycu.concord.edu</i></u>
 </p>
-<a href="file:///home/user/Desktop/codingcoalition/home/home.html">Back to Home Page</a>
+<a href="file:///home/user/Desktop/codingcoalition/Main/homeV2.html">Back to Home Page</a>
 <hr>
-<address style="text-align:center;font-size:10px">
+<address>
 Written by Denny Hood.<br> 
 Concord University Coding Coalition Club<br>
 Box 1000, Athens, WV 24712<br>

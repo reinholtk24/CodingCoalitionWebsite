@@ -1,0 +1,27 @@
+body{
+	background-color: #f2f2f2;
+}
+div{
+	border: 2px solid black;
+    	padding: 0px 0px 0px 0px; 
+    	background: #dddddd;
+    	width: 470px;
+	height: 395px;
+    	border-radius: 25px;
+}
+h1{
+	color:#800000;
+}
+h2{
+	color:#800000;
+}
+address{
+	text-align:center;
+	font-size:10px;
+}
+#toplogo{
+	border-radius: 0px;	
+	width:100%;
+	background-color: black;
+	text-align: center;
+}
