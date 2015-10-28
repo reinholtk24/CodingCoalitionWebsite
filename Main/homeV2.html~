@@ -14,7 +14,7 @@
 </div>
 <div id="header">
 	<h1>Concord University Coding Coalition</h1>
-	<h6>Version 0.2</h6>
+	<h6>Version 0.3</h6>
 </div>
 <div class="left">
 	<h2>Links:</h2>
@@ -32,6 +32,8 @@
 		<li><a href="file:///home/user/Desktop/codingcoalition/FAQ/FAQ.html">FAQ</a></li>
 		<hr>
 		<li><a href="file:///home/user/Desktop/codingcoalition/Tutorials/tutorialMain.html">Tutorials</a></li>
+		<hr>
+		<li><a href="file:///home/user/Desktop/codingcoalition/Projects/projects.html">Projects</a></li>
 	</ul>
 </div>
 <div class="middle">

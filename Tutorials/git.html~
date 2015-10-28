@@ -17,13 +17,15 @@
 
 <p>Create an account!
 </p>
+<p>Learn the commands! Use this <a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf">cheat sheet!</a>
 <hr>
 <p>Back to Tutorials Main <a href="file:///home/user/Desktop/codingcoalition/Tutorials/tutorialMain.html">click here</a></p>
 <p>Back to home <a href="file:///home/user/Desktop/codingcoalition/Main/homeV2.html">click here</a></p>
-<hr>
+<div id="footer">
 <address>Written by Denny Hood.<br> 
 Concord University Coding Coalition Club<br>
 Box 1000, Athens, WV 24712<br>
 USA</address>
+</div>
 </body>
 </html>

@@ -9,21 +9,68 @@
 <div id="toplogo" style="height: 200px">
 	<img src="file:///home/user/Desktop/codingcoalition/Main/12189687_10207140734053765_7437299204447836637_n.jpg"; width:100%/>
 </div>
-<h1>Welcome to Concord Coding Coalition video guides!</h1>
-<hr>
+<div id="header">
+	<h1>Welcome to Concord Coding Coalition video guides!</h1>
+</div>
+
+<div style="float: left; width: 100px">
+	<h2>Links:</h2>
+	<ul>
+		<li><a href="file:///home/user/Desktop/codingcoalition/Main/homeV2.html">Home</a></li>
+		<hr>		
+		<li><a href="file:///home/user/Desktop/codingcoalition/Officers/officers.html">Club Officers</a></li>
+		<hr>
+		<li><a href="https://www.facebook.com/groups/cucsc/">Facebook</a></li>
+		<hr>
+		<li><a href="file:///home/user/Desktop/codingcoalition/videos/videos.html">Video Tutorials</a></li>
+		<hr>
+		<li><a href="https://wiki.csclub.uwaterloo.ca/Main_Page">Wiki</a></li>
+		<hr>
+		<li><a href="file:///home/user/Desktop/codingcoalition/FAQ/FAQ.html">FAQ</a></li>
+		<hr>
+		<li><a href="file:///home/user/Desktop/codingcoalition/Tutorials/tutorialMain.html">Tutorials</a></li>
+		<hr>
+		<li><a href="file:///home/user/Desktop/codingcoalition/Projects/projects.html">Projects</a></li>
+	</ul>
+</div>
+<div style="height: 1500px; width: 1500px; float: left">
 <h2>Check out these helpful tutorials:</h2>
+<!--C++ tutorials -->
+<div style="width:1300px; float: left">
+	<h2>Learn C++</h2>
+		<TABLE BORDER=3 CELLSPACING=3 CELLPADDING=3>
+		<TR>
+		<TD ALIGN=center><iframe width="420" height="345"src="http://www.youtube.com/embed/H5lkmKkfjD0"></iframe></TD>
+		<TD ALIGN=center><iframe width="420" height="345"src="http://www.youtube.com/embed/JBjjnqG0BP8"></iframe></TD>
+		<TD ALIGN=center><iframe width="420" height="345"src="http://www.youtube.com/embed/cYkBxaiAoL4"></iframe></TD>
+		</TR>
+		</TABLE>
+</div>
+<!--JAVA tutorials -->
+<div style="width:1300px; float: left">
+	<h2>Learn Java</h2>
+		<TABLE BORDER=3 CELLSPACING=3 CELLPADDING=3>
+		<TR>
+		<TD ALIGN=center><iframe width="420" height="345"src="http://www.youtube.com/embed/WPvGqX-TXP0"></iframe></TD>
+		<TD ALIGN=center><iframe width="420" height="345"src="http://www.youtube.com/embed/3u1fu6f8Hto"></iframe></TD>
+		<TD ALIGN=center><iframe width="420" height="345"src="http://www.youtube.com/embed/2Xa3Y4xz8_s"></iframe></TD>
+		</TR>
+		</TABLE>
+</div>
+<!--Python tutorials -->
+<div style="width:1300px; float: left">
+	<h2>Learn Python</h2>
+		<TABLE BORDER=3 CELLSPACING=3 CELLPADDING=3>
+		<TR>
+		<TD ALIGN=center><iframe width="420" height="345"src="http://www.youtube.com/embed/ybvqlu9odtg"></iframe></TD>
+		<TD ALIGN=center><iframe width="420" height="345"src="http://www.youtube.com/embed/NQWRdv5b7T8"></iframe></TD>
+		<TD ALIGN=center><iframe width="420" height="345"src="http://www.youtube.com/embed/NQWRdv5b7T8"></iframe></TD>
+		</TR>
+		</TABLE>
+</div>
+</div>
 
-<p><div>
-<iframe width="420" height="345"
-src="http://www.youtube.com/embed/H5lkmKkfjD0">
-</iframe></div>
-</p>
 
-<p>
-<div>
-<iframe width="420" height="345" src="http://www.youtube.com/embedoEBinQ6uaBo"></iframe>
-</div></p>
-<a href="file:///home/user/Desktop/codingcoalition/Main/homeV2.html">Back to Home Page</a>
 <div id="footer">
 <address>
 Written by Denny Hood.<br> 
